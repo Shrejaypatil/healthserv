@@ -38,7 +38,7 @@ healthserv-main/
 │   ├── img/
 │   └── vendor/
 └── remotemysql_com.sql           # SQL script for database setup
-
+```
 
 🚀 Getting Started
 Prerequisites
