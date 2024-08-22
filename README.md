@@ -46,6 +46,30 @@ Flask
 Scikit-learn
 Virtual environment (recommended)
 
+Installation
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/your-username/healthserv-main.git
+Navigate to the project directory:
+bash
+Copy code
+cd healthserv-main
+Install dependencies:
+bash
+Copy code
+pip install -r requirements.txt
+Run the application:
+bash
+Copy code
+python app.py
+Access the application in your browser at http://127.0.0.1:5000.
+🎯 Keywords
+Health Prediction
+Machine Learning
+Flask
+Python
+Disease Diagnosis
 
 The project is a health service platform, including machine learning models for predicting diseases (cancer, diabetes, heart conditions, kidney issues, liver problems, Parkinson's) along with various static assets and HTML templates.
 
